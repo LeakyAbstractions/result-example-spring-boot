@@ -32,7 +32,7 @@ dependencies {
 	implementation 'com.leakyabstractions:result-lazy'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testImplementation 'com.leakyabstractions:result-assertj'
-	testImplementation 'org.assertj:assertj-core:3.27.3'
+	testImplementation 'org.assertj:assertj-core:3.27.4'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }
 
