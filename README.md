@@ -11,7 +11,7 @@
 This is a simple implementation of a [Petstore][PET_STORE] server powered by [Spring Boot][SPRING_BOOT].
 
 The purpose of this example application is to demonstrate how to make use of [Result][RESULT_LIBRARY] libraries in
-projects based on Spring Boot. For the sake of brevity, the Petstore spec is implemented partially.
+projects based on Spring Boot 3. For the sake of brevity, the Petstore spec is implemented partially.
 
 
 ## Getting Started
@@ -109,7 +109,7 @@ See the License for the specific language governing permissions and limitations 
 [BADGE_BUILD_STATUS]:           https://github.com/leakyabstractions/result-example-spring-boot/workflows/Build/badge.svg
 [BADGE_GRADLE]:                 https://img.shields.io/badge/Gradle-1FAEC9?logo=Gradle&logoColor=white
 [BADGE_RESULT_ARTIFACTS]:       https://img.shields.io/endpoint?url=https://dev.leakyabstractions.com/result/badge.json
-[BADGE_SPRING_BOOT]:            https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring&logoColor=white
+[BADGE_SPRING_BOOT]:            https://img.shields.io/badge/Spring%20Boot-3-black?logo=Spring&logoColor=white&labelColor=6DB33F
 [BENCHMARK]:                    https://dev.leakyabstractions.com/result-benchmark/
 [BUILD_STATUS]:                 https://github.com/LeakyAbstractions/result-example-spring-boot/actions?query=workflow%3ABuild
 [CODE_OF_CONDUCT]:              https://dev.leakyabstractions.com/result/CODE_OF_CONDUCT.html
