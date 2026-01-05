@@ -26,7 +26,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-restclient'
 	implementation 'org.springframework.boot:spring-boot-starter-webmvc'
 	implementation 'org.springframework.cloud:spring-cloud-starter-openfeign'
-	implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:3.0.0'
+	implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:3.0.1'
 	implementation platform('com.leakyabstractions:result-bom:1.2.0.1')
 	implementation 'com.leakyabstractions:result'
 	implementation 'com.leakyabstractions:result-jackson3'
